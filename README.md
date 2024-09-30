@@ -75,24 +75,7 @@ Step14. click on debug and simulate using simulation.
 
 ## STM 32 CUBE PROGRAM :
 ```
-/* USER CODE BEGIN Header */
-/**
-  ******************************************************************************
-  * @file           : main.c
-  * @brief          : Main program body
-  ******************************************************************************
-  * @attention
-  *
-  * Copyright (c) 2024 STMicroelectronics.
-  * All rights reserved.
-  *
-  * This software is licensed under terms that can be found in the LICENSE file
-  * in the root directory of this software component.
-  * If no LICENSE file comes with this software, it is provided AS-IS.
-  *
-  ******************************************************************************
-  */
-/* USER CODE END Header */
+
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 
@@ -340,8 +323,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  ![Screenshot 2024-09-30 132921](https://github.com/user-attachments/assets/970c531a-9300-43c4-bc1a-b7260e1afbfc)
 
- ![Screenshot 2024-09-30 132848](https://github.com/user-attachments/assets/125a777a-30d5-4ced-9946-35dd1c27534e)
-
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 
@@ -350,26 +331,21 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
+![Screenshot 2024-09-30 135735](https://github.com/user-attachments/assets/f52b0d57-14d0-4d11-9110-3551e8c52b16)
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+
+TON  = 1/(TOTAL TIME)
 
 FOR PULSE AT 700
+![Screenshot 2024-09-30 140434](https://github.com/user-attachments/assets/19c6fd80-67ce-4815-ac14-e20c3168c042)
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 1/(TOTAL TIME)
 
 
 FOR PULSE AT 900
+![Screenshot 2024-09-30 140850](https://github.com/user-attachments/assets/9b6bfd60-d306-4942-b611-98b60899c509)
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 1/(TOTAL TIME)
 
 
 ## Result :
