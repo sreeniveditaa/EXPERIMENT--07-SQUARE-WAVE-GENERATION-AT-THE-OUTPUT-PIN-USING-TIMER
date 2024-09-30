@@ -343,7 +343,7 @@ TON = 1/(TOTAL TIME)
 
 
 FOR PULSE AT 900
-![Screenshot 2024-09-30 140850](https://github.com/user-attachments/assets/9b6bfd60-d306-4942-b611-98b60899c509)
+![{4EDE8CCB-A93A-4D4B-9FEA-D9C818C5477D}](https://github.com/user-attachments/assets/0ad04b1c-8baa-4614-8d6d-b93118b822c2)
 
 TON = 1/(TOTAL TIME)
 
