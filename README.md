@@ -330,19 +330,19 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
-FOR PULSE AT 500
+FOR PULSE AT 5000
 ![Screenshot 2024-09-30 135735](https://github.com/user-attachments/assets/f52b0d57-14d0-4d11-9110-3551e8c52b16)
 
 
 TON  = 1/(TOTAL TIME)
 
-FOR PULSE AT 700
+FOR PULSE AT 7000
 ![Screenshot 2024-09-30 140434](https://github.com/user-attachments/assets/19c6fd80-67ce-4815-ac14-e20c3168c042)
 
 TON = 1/(TOTAL TIME)
 
 
-FOR PULSE AT 900
+FOR PULSE AT 9000
 ![{4EDE8CCB-A93A-4D4B-9FEA-D9C818C5477D}](https://github.com/user-attachments/assets/0ad04b1c-8baa-4614-8d6d-b93118b822c2)
 
 TON = 1/(TOTAL TIME)
